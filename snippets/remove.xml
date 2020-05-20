@@ -19,24 +19,7 @@
   <!-- Device -->
   <remove-project name="device/amlogic/yukawa" />
   <remove-project name="device/amlogic/yukawa-kernel" />
-  <remove-project name="device/common" />
-  <remove-project name="device/generic/arm64" />
-  <remove-project name="device/generic/armv7-a-neon" />
-  <remove-project name="device/generic/car" />
-  <remove-project name="device/generic/common" />
   <remove-project name="device/generic/goldfish" />
-  <remove-project name="device/generic/goldfish-opengl" />
-  <remove-project name="device/generic/mini-emulator-arm64" />
-  <remove-project name="device/generic/mini-emulator-armv7-a-neon" />
-  <remove-project name="device/generic/mini-emulator-x86" />
-  <remove-project name="device/generic/mini-emulator-x86_64" />
-  <remove-project name="device/generic/opengl-transport" />
-  <remove-project name="device/generic/qemu" />
-  <remove-project name="device/generic/trusty" />
-  <remove-project name="device/generic/uml" />
-  <remove-project name="device/generic/x86" />
-  <remove-project name="device/generic/x86_64" />
-  <remove-project name="device/google/atv" />
   <remove-project name="device/google/bonito" />
   <remove-project name="device/google/bonito-kernel" />
   <remove-project name="device/google/bonito-sepolicy" />
@@ -66,7 +49,6 @@
   <remove-project name="device/linaro/hikey-kernel" />
   <remove-project name="device/linaro/poplar" />
   <remove-project name="device/linaro/poplar-kernel" />
-  <remove-project name="device/sample" />
   <remove-project name="device/ti/beagle-x15" />
   <remove-project name="device/ti/beagle-x15-kernel" />
 
@@ -85,7 +67,6 @@
   <remove-project name="platform/external/python/pyopenssl" />
   <remove-project name="platform/external/rapidjson" />
   <remove-project name="platform/external/selinux" />
-  <remove-project name="platform/external/skia" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/toybox" />
 
