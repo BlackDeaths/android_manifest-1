@@ -51,6 +51,7 @@
   <remove-project name="device/linaro/poplar-kernel" />
   <remove-project name="device/ti/beagle-x15" />
   <remove-project name="device/ti/beagle-x15-kernel" />
+  <remove-project name="device/generic/opengl-transport" />
 
   <!-- External -->
   <remove-project name="platform/external/ARMComputeLibrary" />
